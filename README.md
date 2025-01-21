@@ -36,6 +36,7 @@ A simple test for Backend developers
     * simple
     * easy to maintain
 * Good package management and git practices
+* Documentation and architecture
 * Security / Performance / SEO / Accessibility considerations
 * Tests
 * General code quality, organisation and best practices
